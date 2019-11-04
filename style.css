@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    padding: 0;
+    }
+body{
+    background-color: rgb(245, 253, 253);
+    }
+nav{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(21, 158, 151);
+    }
+ul{}
+ul li{
+    list-style: none;   
+    display: inline-block;
+    
+    line-height: 100px;
+}
+ul li a{
+    display: block;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    padding: 0 20px;
+}
+
+main {
+    display:flex;
+    width:100%;
+    height:500px;
+    justify-content: space-around;
+}
+#div1{
+display: inline-block;
+height: 200px;
+width: 50%;
+background-color: rgb(184, 243, 235);
+margin-top: 70px;
+border: 1px solid black;
+margin-left: 40px;
+
+}
+#p1{
+    font-size: 20px;
+    color: rgb(10, 83, 77);
+}
+#div2{
+display: flex;
+height: 300;
+width: 40%;
+flex-wrap:wrap;
+margin-top: 70px;
+}
+.plaatjes{
+margin-right: 60px;
+}
+
+#plaatje1{
+    
+    height: 100px;
+    width: 200px;
+    }
+#plaatje2{       
+    
+    height: 100px;
+    width: 200px;
+    }
+#plaatje3{
+    
+    height: 100px;
+    width: 200px;
+    }
+#plaatje4{
+    
+    height: 100px;
+    width: 200px;
+    }
+#plaatje5{
+    
+    height: 100px;
+    width: 200px;
+    }
+#plaatje6{
+    
+    height: 100px;
+    width: 200px;
+    }   
+                                                            
