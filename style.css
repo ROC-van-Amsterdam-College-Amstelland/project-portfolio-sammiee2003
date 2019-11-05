@@ -220,6 +220,30 @@ height: 75px;
 }     
 ol{
     text-decoration: none;
-list-style: none;
-
+    list-style: square;
+    font-size: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
   }
+#p7{
+font-size: 30px;
+}
+#p8{
+font-size: 20px;
+margin-left: 10px;
+
+
+}
+#hmmuffin{
+text-decoration: none;
+color: rgb(14, 85, 151);
+margin-left: 10px;
+font-size: 20px;
+}
+#muffintje{
+height: 400px;
+width: 250px;
+margin: 40px;
+
+
+}
