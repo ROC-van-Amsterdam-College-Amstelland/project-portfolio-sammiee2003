@@ -86,5 +86,17 @@ margin-right: 60px;
     
     height: 100px;
     width: 200px;
-    }   
+    }  
+footer {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(21, 158, 151);
+    }
+
+
+.list1{
+display: initial;
+margin: 10px;
+
+}
                                                             
