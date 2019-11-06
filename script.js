@@ -33,3 +33,15 @@ function verander2() {
                 document.getElementById("plaatje6").style.display="block"
                 
                 }
+                function like(){
+                   
+                   document.getElementById("like").style.backgroundColor ="green"
+                   document.getElementById("dislike").style.backgroundColor="black"
+                   
+                   }
+                   function dislike(){
+                   
+                    document.getElementById("dislike").style.backgroundColor ="red"
+                    document.getElementById("like").style.backgroundColor="black"
+                    
+                    }
