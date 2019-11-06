@@ -3,12 +3,13 @@
     padding: 0;
     }
 body{
-   background-color: cornflowerblue;
-    }
+
+
+}
 nav{
     width: 100%;
     height: 100px;
-    background-color: rgb(32, 170, 189);
+    background-color: rgb(52, 149, 194);
     }
 
 ul li{
@@ -90,7 +91,7 @@ margin-right: 60px;
 footer {
     width: 100%;
     height: 100px;
-    background-color: rgb(49, 147, 172);
+    background-color:  rgb(52, 149, 194);
     }
 
 
@@ -298,7 +299,7 @@ body {
 	font-size: 12px;
 	line-height:30px;
 	color:#777;
-	background:#0CF;
+	background:rgb(196, 227, 230);
 }
 
 .container {
@@ -423,7 +424,7 @@ width: 50px;
 margin-left: 10px;
 
     }
-    #datum{
+    #vandaag{
         font-size: 15px;
         margin-left: 10px;
 color: black;
